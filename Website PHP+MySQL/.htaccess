@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8
+
+ErrorDocument 404 /error.php
+# ErrorDocument 500 /error500.php
+
+# название для url адреса
+
+# RewriteRule ^register?$ register.php [NC, L]
